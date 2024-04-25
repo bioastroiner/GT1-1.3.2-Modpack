@@ -1,0 +1,13 @@
+filename = 'Factorization-0.5.6_948.jar'
+name = 'Factorization'
+side = 'both'
+
+[download]
+hash = 'd9480e9df46679df3d51171f2082dcb4efae052c70b37deb0f40e066f93fac4856d055eab4602a4204bd1c5537ae8986bddb1685713762e7b8320de6a9bd6e22'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XmseIqaa/versions/0.5.6.948/Factorization-0.5.6_948.jar'
+
+[update.modrinth]
+mod-id = 'XmseIqaa'
+version = 'g1rLGRg6'

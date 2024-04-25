@@ -1,0 +1,13 @@
+filename = 'CraftTweaker2.5-132-19.01.04.jar'
+name = 'CraftTweaker'
+side = 'both'
+
+[download]
+hash = '3a3ffe98a4b714eccc8388d4aa76c12cb032a970f6eee9121ea9a0e1953b3f6b77e2b9e3861c2bdf460de15904c54952503e7b60b5e402a91b8ab543a4cab4eb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Xg35A4rS/versions/fQseqle9/CraftTweaker2.5-132-19.01.04.jar'
+
+[update.modrinth]
+mod-id = 'Xg35A4rS'
+version = 'fQseqle9'

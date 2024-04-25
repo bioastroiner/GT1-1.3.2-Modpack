@@ -1,0 +1,7 @@
+.minecraft/*log
+.minecraft/*cache
+*saves
+*/crash*
+*/screenshots
+*/server-resource-packs
+.minecraft/resources

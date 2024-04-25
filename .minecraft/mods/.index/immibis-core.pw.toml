@@ -1,0 +1,13 @@
+filename = 'immibis-core_50.2.4_for_1.3.2-joined.jar'
+name = 'Immibis Core'
+side = 'both'
+
+[download]
+hash = '21c4be2eed14e42784609f178e00e6499ad067a2d1d98a95ca603d3d744c2f77a6a1b69ebe7817d72fb28a6055825c3c701fdceb5e03df99b0fa100ef47b8f17'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iwfxqPXL/versions/F4SzhRrR/immibis-core_50.2.4_for_1.3.2-joined.jar'
+
+[update.modrinth]
+mod-id = 'iwfxqPXL'
+version = 'F4SzhRrR'

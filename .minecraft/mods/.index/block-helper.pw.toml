@@ -1,0 +1,13 @@
+filename = 'BlockHelper-1.1.2-1.3.2.jar'
+name = 'Block Helper'
+side = 'both'
+
+[download]
+hash = '2d601e21c3d31f0324409a6f91223eeaf1345fb1b1c68d629d74c905e43aa85e44b9fbd34319fae3847607017e18d274b099943d6ee880f57cd1761c78cc2e73'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CiDIVfkf/versions/1NowsiZh/BlockHelper-1.1.2-1.3.2.jar'
+
+[update.modrinth]
+mod-id = 'CiDIVfkf'
+version = '1NowsiZh'

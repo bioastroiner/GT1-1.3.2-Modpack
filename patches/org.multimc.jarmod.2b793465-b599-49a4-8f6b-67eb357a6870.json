@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "NoInfiniteWaterMC132",
+            "MMC-filename": "2b793465-b599-49a4-8f6b-67eb357a6870.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:2b793465-b599-49a4-8f6b-67eb357a6870:1"
+        }
+    ],
+    "name": "NoInfiniteWaterMC132 (jar mod)",
+    "uid": "org.multimc.jarmod.2b793465-b599-49a4-8f6b-67eb357a6870"
+}

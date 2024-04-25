@@ -1,0 +1,13 @@
+filename = '[1.3.2]TreeCapitator.Forge.1.3.2.r09.Uni.CoreMod.jar'
+name = 'Treecapitator'
+side = 'both'
+
+[download]
+hash = 'c112da95f5eebe676fb1c395b862845e496013a9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2218732
+project-id = 59216

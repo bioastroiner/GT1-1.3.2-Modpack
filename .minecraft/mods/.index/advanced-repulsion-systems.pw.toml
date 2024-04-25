@@ -1,0 +1,13 @@
+filename = 'adv-repulsion-systems_50.2.5_for_1.3.2-joined.jar'
+name = 'Advanced Repulsion Systems'
+side = 'both'
+
+[download]
+hash = '36285b032d41bb12ebf0c1d098ed66fc8ebce065c35a0783cd0526ddcd4e9687f9aa924bad6fdbe3b73eeeb83d148b494e1ab73ef21638bf65756f24df0a7372'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DGNuTCAG/versions/NgjYjhn1/adv-repulsion-systems_50.2.5_for_1.3.2-joined.jar'
+
+[update.modrinth]
+mod-id = 'DGNuTCAG'
+version = 'NgjYjhn1'

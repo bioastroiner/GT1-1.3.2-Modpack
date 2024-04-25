@@ -1,0 +1,42 @@
+{
+    "components": [
+        {
+            "cachedName": "LWJGL 2",
+            "cachedVersion": "2.9.0",
+            "cachedVolatile": true,
+            "dependencyOnly": true,
+            "uid": "org.lwjgl",
+            "version": "2.9.0"
+        },
+        {
+            "cachedName": "Minecraft",
+            "cachedRequires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "cachedVersion": "1.3.2",
+            "important": true,
+            "uid": "net.minecraft",
+            "version": "1.3.2"
+        },
+        {
+            "cachedName": "Forge",
+            "cachedRequires": [
+                {
+                    "equals": "1.3.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "cachedVersion": "4.3.5.318",
+            "uid": "net.minecraftforge",
+            "version": "4.3.5.318"
+        },
+        {
+            "cachedName": "NoInfiniteWaterMC132 (jar mod)",
+            "uid": "org.multimc.jarmod.2b793465-b599-49a4-8f6b-67eb357a6870"
+        }
+    ],
+    "formatVersion": 1
+}
