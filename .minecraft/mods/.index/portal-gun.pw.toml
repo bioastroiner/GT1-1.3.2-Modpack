@@ -1,0 +1,13 @@
+filename = 'portalgun1.3.2v2_universal.zip'
+name = 'Portal Gun'
+side = 'both'
+
+[download]
+hash = '5ce4df8fab1678980a5d70a3980ce50eb3e9b179'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2232226
+project-id = 229084
