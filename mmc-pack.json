@@ -2,11 +2,11 @@
     "components": [
         {
             "cachedName": "LWJGL 2",
-            "cachedVersion": "2.9.0",
+            "cachedVersion": "2.9.4-nightly-20150209",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl",
-            "version": "2.9.0"
+            "version": "2.9.4-nightly-20150209"
         },
         {
             "cachedName": "Minecraft",
@@ -32,6 +32,24 @@
             "cachedVersion": "4.3.5.318",
             "uid": "net.minecraftforge",
             "version": "4.3.5.318"
+        },
+        {
+            "cachedName": "Intermediary Mappings",
+            "cachedVersion": "1.3.2",
+            "dependencyOnly": true,
+            "uid": "net.fabricmc.intermediary",
+            "version": "1.3.2"
+        },
+        {
+            "cachedName": "Fabric Loader",
+            "cachedRequires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "cachedVersion": "0.15.6",
+            "uid": "net.fabricmc.fabric-loader",
+            "version": "0.15.6"
         },
         {
             "cachedName": "NoInfiniteWaterMC132 (jar mod)",
