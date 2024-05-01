@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "ClassLoaderFixer-1.3.2-1",
+            "MMC-filename": "296c2549-0a19-4ef5-9b61-9c881743f121.jar",
+            "MMC-hint": "local",
+            "name": "custom.jarmods:296c2549-0a19-4ef5-9b61-9c881743f121:1"
+        }
+    ],
+    "name": "ClassLoaderFixer-1.3.2-1 (jar mod)",
+    "uid": "custom.jarmod.296c2549-0a19-4ef5-9b61-9c881743f121"
+}

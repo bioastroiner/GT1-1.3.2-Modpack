@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "OptiFine_1.3.2_HD_U_B3",
+            "MMC-filename": "8ea92c2b-3d78-4f80-9bb5-602a88c7d7f8.jar",
+            "MMC-hint": "local",
+            "name": "custom.jarmods:8ea92c2b-3d78-4f80-9bb5-602a88c7d7f8:1"
+        }
+    ],
+    "name": "OptiFine_1.3.2_HD_U_B3 (jar mod)",
+    "uid": "custom.jarmod.8ea92c2b-3d78-4f80-9bb5-602a88c7d7f8"
+}

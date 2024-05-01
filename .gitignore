@@ -6,3 +6,5 @@
 */server-resource-packs
 .minecraft/resources
 .minecraft/stats
+natives
+natives/*

@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "better_sound_mod_alpha-v0.0.13",
+            "MMC-filename": "37eb76ab-bd32-43c6-8276-e56319fc6c81.jar",
+            "MMC-hint": "local",
+            "name": "custom.jarmods:37eb76ab-bd32-43c6-8276-e56319fc6c81:1"
+        }
+    ],
+    "name": "better_sound_mod_alpha-v0.0.13 (jar mod)",
+    "uid": "custom.jarmod.37eb76ab-bd32-43c6-8276-e56319fc6c81"
+}

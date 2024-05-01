@@ -36,6 +36,34 @@
         {
             "cachedName": "NoInfiniteWaterMC132 (jar mod)",
             "uid": "org.multimc.jarmod.2b793465-b599-49a4-8f6b-67eb357a6870"
+        },
+        {
+            "cachedName": "FontFixer-1.3.2-1 (jar mod)",
+            "uid": "custom.jarmod.aeb4a1ac-a345-4a78-a153-286fd98b1241"
+        },
+        {
+            "cachedName": "ClassLoaderFixer-1.3.2-1 (jar mod)",
+            "uid": "custom.jarmod.296c2549-0a19-4ef5-9b61-9c881743f121"
+        },
+        {
+            "cachedName": "better_sound_mod_alpha-v0.0.13 (jar mod)",
+            "uid": "custom.jarmod.37eb76ab-bd32-43c6-8276-e56319fc6c81"
+        },
+        {
+            "cachedName": "NEI_BuildcraftPlugin 1.1.0.7 (jar mod)",
+            "uid": "custom.jarmod.cb829dcb-cbde-4a5e-85c3-6c4081e34ecb"
+        },
+        {
+            "cachedName": "NEI_ForestryPlugin 1.2.0.28 (jar mod)",
+            "uid": "custom.jarmod.39bf7c9f-9e2b-4ca2-b2b6-f982ba4fab63"
+        },
+        {
+            "cachedName": "OptiFine_1.3.2_HD_U_B3 (jar mod)",
+            "uid": "custom.jarmod.8ea92c2b-3d78-4f80-9bb5-602a88c7d7f8"
+        },
+        {
+            "cachedName": "SinglePlayerCommands-MC1.3.2_V4.1 (jar mod)",
+            "uid": "custom.jarmod.b972e470-6df9-4ded-865e-efaa313ef7f4"
         }
     ],
     "formatVersion": 1

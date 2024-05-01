@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "NEI_BuildcraftPlugin 1.1.0.7",
+            "MMC-filename": "cb829dcb-cbde-4a5e-85c3-6c4081e34ecb.jar",
+            "MMC-hint": "local",
+            "name": "custom.jarmods:cb829dcb-cbde-4a5e-85c3-6c4081e34ecb:1"
+        }
+    ],
+    "name": "NEI_BuildcraftPlugin 1.1.0.7 (jar mod)",
+    "uid": "custom.jarmod.cb829dcb-cbde-4a5e-85c3-6c4081e34ecb"
+}
